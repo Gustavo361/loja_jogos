@@ -1,0 +1,21 @@
+body{
+    background-image:url('bc.jpg');
+    background-attachment: fixed;
+    background-size:100%;
+    background-repeat:no-repeat;
+
+}
+
+.formulario{
+    width: 500px;
+    height: auto;
+    margin-left: 450px;
+    margin-top:5%;
+    background-color: #84d7e1;
+    border-radius: 1.5%;
+    background:transparent;
+}
+
+.obg{
+    margin-left: 17%;
+}
